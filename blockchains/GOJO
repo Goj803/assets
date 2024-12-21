@@ -1,0 +1,12 @@
+{
+    "name": "GOJO",
+    "symbol": "GOJ",
+    "type": "BEP2",
+    "decimals": 8,
+    "description": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
+    "website": "https://GOJO.com",
+    "explorer": "https://explorer.binance.org/asset/GOJO-8FA",
+    "research": "https://research.binance.com/en/projects/gojo-protocol",
+    "status": "active",
+    "id": "GOJO-8FA"
+}
